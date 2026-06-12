@@ -18,4 +18,5 @@
 [Тест-кейсы](https://github.com/EkaterinaAsanova/Netology_Diplom/blob/main/Cases.xlsx)
 
 
-Чек-лист
+
+[Чек-лист](https://github.com/EkaterinaAsanova/Netology_Diplom/blob/main/Check.xlsx)  
