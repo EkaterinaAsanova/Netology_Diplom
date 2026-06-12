@@ -15,7 +15,7 @@
 [План](https://github.com/netology-code/qamid-diplom#цели-проекта)
 
 
-[Тест-кейсы]()
+[Тест-кейсы](https://github.com/EkaterinaAsanova/Netology_Diplom/blob/main/Cases.xlsx)
 
 
 Чек-лист
